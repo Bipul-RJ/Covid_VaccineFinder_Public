@@ -12,7 +12,8 @@ The script is compiled into .exe format and uploaded in build folder. So that us
 
 #################################################################################################################################################################################
 ####################################
-LICENSE Information:
+
+# LICENSE Information:
 
 LICENSE for the project(Excluding the Third Party Libraries used) is present in the root folder.
 
