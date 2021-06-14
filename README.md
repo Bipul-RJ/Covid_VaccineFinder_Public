@@ -10,7 +10,7 @@ The user can configure the below things:
 
 The script is compiled into .exe format and uploaded in build folder. So that users can execute the application in a single click. Please note that the user should have the chrome browser version and the chromedriver.exe version same. Version 91.0.4472.77 is used in this project. If you are using another version of chrome, download that version of chromedriver.exe and replace the existing one in the build folder(Build_EXE_Format).
 
-###################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+#################################################################################################################################################################################
 
 LICENSE Information:
 
